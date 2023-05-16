@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rustrose/HINTS">
+  <a href="https://github.com/LiveGray/HINTS">
     <img src="images/hints.png" alt="hints" width="800" height="480">
   </a>
 
@@ -26,12 +26,12 @@
   <p align="center">
     Human Intelligence Narrowing Tool Set
     <br />
-    <a href="https://github.com/rustrose/HINTS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LiveGray/HINTS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rustrose/HINTS/issues">Report Bug</a>
+    <a href="https://github.com/LiveGray/HINTS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rustrose/HINTS/issues">Request Feature</a>
+    <a href="https://github.com/LiveGray/HINTS/issues">Request Feature</a>
   </p>
 </p>
 
@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![HINTS][product-screenshot]](https://github.com/rustrose/HINTS)
+[![HINTS][product-screenshot]](https://github.com/LiveGray/HINTS)
 
 HINTS is a CRUD tool for housing information gathered from public OSINT resources on individuals (HUMINT) and organizations (ORGINT)
 
@@ -105,7 +105,7 @@ These sections both need to be running in order for things to work smoothly. It 
 
 Clone the repo
    ```sh
-   git clone https://github.com/rustrose/hints.git
+   git clone https://github.com/LiveGray/hints.git
    ```
 
 ### Frontend
@@ -166,7 +166,7 @@ Running the development mode makes troubleshooting far easier. This is still a w
 * Docker installation
 
 
-See the [open issues](https://github.com/rustrose/HINTS/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/LiveGray/HINTS/issues) for a list of proposed features (and known issues).
 
 
 
@@ -193,7 +193,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/rustrose/HINTS](https://github.com/rustrose/HINTS)
+Project Link: [https://github.com/LiveGray/HINTS](https://github.com/LiveGray/HINTS)
 
 
 
@@ -206,14 +206,14 @@ Project Link: [https://github.com/rustrose/HINTS](https://github.com/rustrose/HI
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rustrose/HINTS.svg?style=for-the-badge
-[contributors-url]: https://github.com/rustrose/HINTS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rustrose/HINTS.svg?style=for-the-badge
-[forks-url]: https://github.com/rustrose/HINTS/network/members
-[stars-shield]: https://img.shields.io/github/stars/rustrose/HINTS.svg?style=for-the-badge
-[stars-url]: https://github.com/rustrose/HINTS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rustrose/HINTS.svg?style=for-the-badge
-[issues-url]: https://github.com/rustrose/HINTS/issues
-[license-shield]: https://img.shields.io/github/license/rustrose/HINTS.svg?style=for-the-badge
-[license-url]: https://github.com/rustrose/HINTS/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/LiveGray/HINTS.svg?style=for-the-badge
+[contributors-url]: https://github.com/LiveGray/HINTS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LiveGray/HINTS.svg?style=for-the-badge
+[forks-url]: https://github.com/LiveGray/HINTS/network/members
+[stars-shield]: https://img.shields.io/github/stars/LiveGray/HINTS.svg?style=for-the-badge
+[stars-url]: https://github.com/LiveGray/HINTS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LiveGray/HINTS.svg?style=for-the-badge
+[issues-url]: https://github.com/LiveGray/HINTS/issues
+[license-shield]: https://img.shields.io/github/license/LiveGray/HINTS.svg?style=for-the-badge
+[license-url]: https://github.com/LiveGray/HINTS/blob/master/LICENSE.txt
 [product-screenshot]: images/home.png
